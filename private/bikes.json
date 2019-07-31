@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "mtb",
+    "type": "Mountain Bike",
+    "gears": {
+      "front": "24/42",
+      "rear": "12-34"
+    },
+    "color": "Red"
+  },
+  {
+    "_id": "road",
+    "type": "Road Bike",
+    "gears": {
+      "front": "39/53",
+      "rear": "12-25"
+    },
+    "color": "Yellow"
+  },
+  {
+    "_id": "cx",
+    "type": "CX Bike",
+    "gears": {
+      "front": "42",
+      "rear": "11-32"
+    },
+    "color": "Green"
+  },
+  {
+    "_id": "track",
+    "type": "Track Bike",
+    "gears": {
+      "front": "56",
+      "rear": "16"
+    },
+    "color": "Blue"
+  }
+]
